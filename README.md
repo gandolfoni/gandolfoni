@@ -4,7 +4,7 @@
 - Currently getting to know JS better
 - Passionate about privacy
 - Fascinated & inspired by free & open source 
-- I hope to achieve the capabilities to make meaningful contributions to projects find interesting w/ the potential to help my peers lead happier, more fulfulling lives
+- I hope to achieve the capabilities to make meaningful contributions to projects find interesting w/ the potential to help my peers lead happier, more fulfilling lives
 - Getting to work on development of IPFS someday would be pretty cool 
 - You developers are truly amazing people
 - My practice / screw around site: https://carcosa.info/
