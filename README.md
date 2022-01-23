@@ -1,0 +1,12 @@
+- 👋 Hello, 
+- I'm Nicholas Gandolfo
+- I am learning how to code! 
+- Currently getting to know JS better
+- Passionate about privacy
+- Fascinated & inspired by free & open source 
+- I hope to achieve the capabilities to make meaningful contributions to projects find interesting w/ the potential to help my peers lead happier, more fulfulling lives
+- Getting to work on development of IPFS someday would be pretty cool 
+- You developers are truly amazing people
+- My practice / screw around site: carcosa.info
+- Reach me for whatever reason: marty@carcosa.info
+- Keep yer feet on the ground!
