@@ -8,5 +8,6 @@
 - Getting to work on development of IPFS someday would be pretty cool 
 - You developers are truly amazing people
 - My practice / screw around site: https://carcosa.info/
+- I like to play WoW during free time
 - Reach me for whatever reason: marty@carcosa.info
 - Keep yer feet on the ground!
