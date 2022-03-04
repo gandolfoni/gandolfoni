@@ -10,5 +10,5 @@
 - My practice / screw around site: https://carcosa.info/
 - Eventually will transition the jumbled mess into a blog of sorts :)
 - I like to play WoW during free time
-- Reach me for whatever reason: marty@carcosa.info
+- Reach me for whatever reason: marty@slinkypete.com
 - Keep yer feet on the ground!
