@@ -1,6 +1,6 @@
 - 👋 Hello, 
 - I am learning how to code! 
-- Currently getting to know JS better
+- Currently getting to know JS better, hope to move onto Rust
 - Passionate about privacy
 - Fascinated & inspired by free & open source 
 - I hope to achieve the capabilities to make meaningful contributions to projects find interesting w/ the potential to help my peers lead happier, more fulfilling lives
