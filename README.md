@@ -1,5 +1,4 @@
 - 👋 Hello, 
-- I'm Nicholas Gandolfo
 - I am learning how to code! 
 - Currently getting to know JS better
 - Passionate about privacy
